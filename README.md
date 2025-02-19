@@ -8,4 +8,3 @@ The goal of this data analysis project using SQL would be to identify opportunit
 
 # Insights & Visualization Examples
 
-# How to Run the Project
